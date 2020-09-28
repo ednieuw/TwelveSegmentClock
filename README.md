@@ -1,11 +1,11 @@
 # TwelveSegmentClock
-Round 12 segment Fibonacci clock
-<img alt="12Segment-klokken" src="Bunch-of-clocks.jpg" width="450" />
+Round 12 segment Fibonacci clock<br>
+
 Deze ronde 12 segmentenklok is een variatie op de [Fibonacciklokkast](https://ednieuw.home.xs4all.nl/Woordklok/FibonacciClock/Fibonacciklok.html)  <br>
 De software is vereenvoudigd en geschikt voor de WS2812- en SK6812-kleuren-LED's.
-Deze ronde klok kan ook de tijd chronologisch als een gewone klok weergeven. De kleuren zijn dan nog wel gelijk aan de Fibonacciklok
-
-Een uitgebreide handleiding is [hier te vinden](https://ednieuw.home.xs4all.nl/Woordklok/FibonacciStick/Fibonaccistick.html) <br>
+Deze ronde klok kan ook de tijd chronologisch als een gewone klok weergeven. De kleuren zijn dan nog wel gelijk aan de Fibonacciklok.<br>
+<img alt="12Segment-klokken" src="Bunch-of-clocks.jpg" width="450" />
+<br>Een uitgebreide handleiding is [hier te vinden](https://ednieuw.home.xs4all.nl/Woordklok/FibonacciStick/Fibonaccistick.html) <br>
 <img alt="Fibonaccistick and Niki de Saint Phalle inflatable doll" height="675" src="Stick_Niki_IMG_4173.JPG" width="900" />
 
 Usage Arduino
