@@ -1,11 +1,24 @@
-# TwelveSegmentClock
-Round 12 segment Fibonacci clock<br>
+# Round 12 segment Fibonacci clock
+
+This 12-segmentklok is a variation of the [Fibonacci clock]
+(https://ednieuw.home.xs4all.nl/Woordklok/FibonacciClock/Fibonacciclock.html) <br>
+The software is able to use a MAX7219 display to display the time digitally,<br>
+It drives twelve SK6812 RGBW LEDs, <br>
+operates a HM-10 or HC-05  Bluetooth module for communication ,<br>
+uses the ZS-042 DS3231 RTC time module a very accurate clock and <br>
+a KY-040 rotary encoder for emergencies to operate the clock.<br>
+With the menu several display otion can be chosen.<br>
+More here: [12-Segment clock](https://ednieuw.home.xs4all.nl/Woordklok/Fibo12SegKlok/12SegFibonacci.html)
 
 Deze ronde 12 segmentenklok is een variatie op de [Fibonacciklokkast](https://ednieuw.home.xs4all.nl/Woordklok/FibonacciClock/Fibonacciklok.html)  <br>
 De software is vereenvoudigd en geschikt voor de WS2812- en SK6812-kleuren-LED's.
-Deze ronde klok kan ook de tijd chronologisch als een gewone klok weergeven. De kleuren zijn dan nog wel gelijk aan de Fibonacciklok.<br>
+Deze ronde klok kan ook de tijd chronologisch als een gewone klok weergeven. 
+De kleuren zijn dan nog wel gelijk aan de Fibonacciklok.<br>
 <img alt="12Segment-klokken" src="Bunch-of-clocks.jpg" width="450" />
-<br>Een uitgebreide handleiding is [hier te vinden](https://ednieuw.home.xs4all.nl/Woordklok/FibonacciStick/Fibonaccistick.html) <br>
+<br>Een uitgebreide handleiding is [hier te vinden]
+(https://ednieuw.home.xs4all.nl/Woordklok/FibonacciStick/Fibonaccistick.html) <br>
+en voor de bouw van de kast hier: [Twaalf-segmentklok]
+(https://ednieuw.home.xs4all.nl/Woordklok/Fibo12SegKlok/12SegFibonacci.html)
 
 Usage Arduino
 =============
