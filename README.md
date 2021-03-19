@@ -1,6 +1,6 @@
 # Round 12 segment Fibonacci clock
 
-This 12-segmentklok is a variation of the [Fibonacci clock](https://ednieuw.home.xs4all.nl/Woordklok/FibonacciClock/Fibonacciclock.html)<br>
+This 12-segmentklok is a variation of the [Fibonacci clock](https://ednieuw.home.xs4all.nl/Woordklok/FibonacciClock/FibonacciClock.html)<br>
 The software is able to use a MAX7219 display to display the time digitally,<br>
 It drives twelve SK6812 RGBW LEDs, <br>
 operates a HM-10 or HC-05  Bluetooth module for communication ,<br>
